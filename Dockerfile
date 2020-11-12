@@ -1,0 +1,3 @@
+FROM centos
+COPY . .
+EXPOSE 3306
